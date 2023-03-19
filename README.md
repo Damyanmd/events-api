@@ -10,7 +10,7 @@
 
 This application was created as a part of Udemy course with the React 6.4 implementation. In short the API is multi-page SPA and it was primarily used React router. For the backend it was used Node.js
 
-### Built With
+## Built With
 
 - CSS
 - JS

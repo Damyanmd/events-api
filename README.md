@@ -5,6 +5,7 @@
 - [Overview](#overview)
 - [Built With](#built-with)
 - [Features](#features)
+- [Update](#update)
 
 ## Overview
 
@@ -22,3 +23,7 @@ This application was created as a part of Udemy course with the React 6.4 implem
 ## Features
 
 In the Main Navigation bar we select either Events or Newsletter and Sign up field for newsletters where we can enter a valid email. In the Events page we can see all the events and also create a new event. If we click on the some event that is displayed we can edit it or delete it. On the newsletter page we can Sign up newsletters.
+
+## Update
+
+19.03.2023 - Added authentication for logging in and what the user is allowed to do.
